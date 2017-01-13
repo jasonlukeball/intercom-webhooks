@@ -1,3 +1,1 @@
-# README
-
-intercom webhooks
+# intercom webhooks
